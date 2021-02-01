@@ -3,7 +3,7 @@ Lightweight Notepad for Creating and Editing Text Files
 
 Notepad UI
 
-<img src = "NotepadUI.png">
+<img src = "NotepadUI.PNG">
 
 ## How to run Notepad
 
